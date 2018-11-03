@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>兽人</string>
+		<key>url</key>
+		<string>https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=106f5de93f2ac65c67056175c3c9d52c/9f510fb30f2442a7f3db7c2cdb43ad4bd0130265.jpg</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>地精</string>
+		<key>url</key>
+		<string>http://img3.cache.netease.com/game/2010/5/7/2010050718403466828.jpg</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>巨魔</string>
+		<key>url</key>
+		<string>http://img1.gamersky.com/image2015/03/20150326zzy_12/image006_S.jpg</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>牛头人</string>
+		<key>url</key>
+		<string>http://pic2.52pk.com/files/130819/1634093_114611_8658.jpg</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>血精灵</string>
+		<key>url</key>
+		<string>http://i-3.497.com/2017/11/23/W3dtOjEucG5nLHI6MTMsYjoxM10oNjAweCk=/2fb52cd9-0dd8-4f15-b4af-e804ed3faef9.jpg</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>亡灵</string>
+		<key>url</key>
+		<string>http://gss0.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/fd039245d688d43f83a66f897d1ed21b0ef43bb9.jpg</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>熊猫人</string>
+		<key>url</key>
+		<string>http://img1.gtimg.com/gamezone/pics/hv1/7/98/1118/72722947.jpg</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>人类</string>
+		<key>url</key>
+		<string>http://www.qqzhi.com/uploadpic/2015-01-29/074216324.jpg</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>狼人</string>
+		<key>url</key>
+		<string>http://img4.cache.netease.com/game/2011/1/6/201101061538062bbae.jpg</string>
+	</dict>
+</array>
+</plist>
